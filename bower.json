@@ -1,0 +1,17 @@
+{
+  "name": "esl-flash-cards-client",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kuyavskih/esl-flash-cards-client",
+  "authors": [
+    "Kateryna Kuiavska <kuyavskih@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-bootstrap": "~0.13.3",
+    "angular-route": "~1.4.5",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}

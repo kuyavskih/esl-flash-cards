@@ -1,0 +1,30 @@
+{
+  "name": "esl-flash-cards-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./app -a 0.0.0.0 -p 8081 -d True -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuyavskih/esl-flash-cards-client.git"
+  },
+  "keywords": [
+    "english",
+    "vocabulary",
+    "flash-cards"
+  ],
+  "author": "Kateryna Kuiavska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuyavskih/esl-flash-cards-client/issues"
+  },
+  "homepage": "https://github.com/kuyavskih/esl-flash-cards-client#readme",
+  "dependencies": {
+    "bower": "^1.5.2",
+    "http-server": "^0.8.0",
+    "shelljs": "^0.5.3"
+  }
+}
